@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70061&width=435&lines=Bienvenue+sur+mon+profil+Github.;Je+suis+%C3%A9tudiant+en+BTS+SIO+SLAM.;Passionn%C3%A9e++de+programmation+de+site+web+et+jeux+vid%C3%A9o." alt="Typing SVG" /></a>
-
-# Salut ! Moi c'est [Ton Nom/Pseudo] 👋
+# Salut ! Moi c'est SaikoRi 👋
 
 ### 🎮 Développeur & Créateur de Mondes Virtuels
 
@@ -13,7 +12,7 @@ Passionné par l'art de transformer des lignes de code en expériences interacti
 - 🕹️ **Game Dev** : Création de prototypes et de jeux complets (2D/3D).
 - 💻 **Programmation** : Toujours à la recherche de code propre et efficace.
 - 🧪 **Expérimentation** : Je teste sans cesse de nouveaux outils et moteurs.
-- 📚 **Apprentissage** : Actuellement en train de creuser du côté de [Ta techno du moment, ex: Godot ou le Shader Programming].
+- 📚 **Apprentissage** : Actuellement en train de creuser du côté de cite web et de unreal engine.
 
 ---
 
