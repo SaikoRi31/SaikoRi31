@@ -26,16 +26,6 @@ Passionné par l'art de transformer des lignes de code en expériences interacti
 
 ---
 
-### 📊 Mes Statistiques GitHub :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight" alt="Stats de TON_PSEUDO" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
-</p>
-
----
-
 <p align="center">
   <i>"Le meilleur moyen de prédire l'avenir, c'est de le programmer."</i>
 </p>
