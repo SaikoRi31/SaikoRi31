@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70061&width=435&lines=Bienvenue+sur+mon+profil+Github.;Je+suis+%C3%A9tudiant+en+BTS+SIO+SLAM.;Passionn%C3%A9e++de+programmation+de+site+web+et+jeux+vid%C3%A9o." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70061&width=435&lines=Bienvenue+sur+mon+profil+Github.;Je+suis+%C3%A9tudiant+en+BTS+SIO+SLAM.;Passionn%C3%A9e+de+Cr%C3%A9ation+de+jeux+vid%C3%A9o;Programmation+de+site+web.;Pour+ceux+qui+viendront+apr%C3%A8s+!)](https://git.io/typing-svg)
 # Salut ! Moi c'est SaikoRi👋
 
 ### 🎮 Développeur & Créateur de Mondes Virtuels
