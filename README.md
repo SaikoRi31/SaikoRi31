@@ -36,15 +36,6 @@ Passionné par l'art de transformer des lignes de code en expériences interacti
 
 ---
 
-### 📫 Me contacter ou voir mon travail :
-
-- 🌍 **Portfolio/Site** : [Lien vers ton site]
-- 👾 **Itch.io** : [Lien vers tes jeux]
-- 💼 **LinkedIn** : [Ton Profil]
-- 🐦 **Twitter/X** : [@TonPseudo]
-
----
-
 <p align="center">
   <i>"Le meilleur moyen de prédire l'avenir, c'est de le programmer."</i>
 </p>
